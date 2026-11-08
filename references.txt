@@ -3,4 +3,5 @@
 3. AOL / TheStreet (2026). T-Mobile plans major pricing changes after losing more customers. https://www.aol.com/articles/t-mobile-ceo-plans-major-201700146.html
 4. CustomerThink. Building Customer Loyalty in Wireless Communications. https://customerthink.com/building_customer_loyalty_in_wireless/
 5. Columbia Business School. Some Customers Are Best Left Alone (Ascarza). https://business.columbia.edu/insights/chazen-global-insights/some-customers-are-best-left-alone
-6. Claude chat history: [paste this chat's share URL]
+6. Matsuo-Iwasawa Lab, University of Tokyo. GCI World 2026 Final Assignment: Company A dataset and tutorial.
+7. Generative AI: Claude (Anthropic) chat history: https://claude.ai/share/17897a96-d207-4771-aaf4-9487ad4dd4df
